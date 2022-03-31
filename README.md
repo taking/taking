@@ -5,7 +5,7 @@
 
 - I am Taking 😃. I am from South Korea and currently working at R&D Team in INNOGRID ☁. 
 
-- I major in Software Engineering in [School of Computing Science and Engineering Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
+- I major in Computing Science and Engineering in [Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
 
 - 🌱 I’m currently learning ![DevOps](https://img.shields.io/badge/-DevOps-005571?style=for-the-badge)
 
