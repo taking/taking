@@ -7,7 +7,7 @@
 
 - I major in Software Engineering in [School of Computing Science and Engineering Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
 
-- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+- 🌱 I’m currently learning ![DevOps](https://img.shields.io/badge/-DevOps-005571?style=for-the-badge)
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr/blog)
 
