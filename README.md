@@ -7,15 +7,6 @@ I am Taking 😃. I am from South Korea and currently working at R&D Team in INN
 
 I major in Software Engineering in [School of Computing Science and Engineering Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
 
-## 👯 Communities Roles
-
-* 🚀 [Istio](https://github.com/istio) Maintainer/Reviewer 
-* 🌍 [Kubernetes](https://github.com/kubernetes) Member/Contributor
-* 🌙 [SOFASTACK](https://github.com/sofastack) & [MOSN](https://github.com/mosn) Member/Reviewer 
-* 🌳 [Aeraki Mesh](https://github.com/aeraki-mesh) Member/Contributor 
-* 🤝 [Cloud Native Community in China](https://github.com/cloudnativeto) Member 
-* 📚 [UESTC](https://github.com/uestcer) Owner, [Chengdu No.7 High School](https://github.com/no7er) Owner 
-
 ## ⚡ Technologies
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=taking">
 
