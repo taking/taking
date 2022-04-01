@@ -11,6 +11,11 @@
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr/blog)
 
+- 💬 I like to talk about [Homelabbing](https://taking.kr/blog/about) and OSS
+
+- 📫 Ask me anything on my [issues page](https://github.com/taking/taking/issues)
+
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyungtag-park/)
 
 
 ## Operating System & Tools
