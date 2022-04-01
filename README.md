@@ -7,7 +7,7 @@
 
 - I major in Computing Science and Engineering in [Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
 
-- 🌱 I’m currently learning ![DevOps](https://img.shields.io/badge/-DevOps-005571?style=for-the-badge)
+- 🌱 I’m currently learning ![DevOps](https://img.shields.io/badge/-DevOps-005571?style=for-the-badge) ![gRPC](https://img.shields.io/badge/-GRPC-005571?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge)
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr/blog)
 
