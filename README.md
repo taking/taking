@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:consine2@gmail.com)](mailto:consine2@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungtag-park/)](https://www.linkedin.com/in/hyungtag-park/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=taking)
 
-- I am Taking 😃. I am from South Korea and currently working at R&D Team in INNOGRID ☁. 
+- I am Taking 😃. I am from South Korea and currently working at R&D Department in INNOGRID ☁. 
 
 - I major in Computing Science and Engineering in [Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
 
