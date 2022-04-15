@@ -29,5 +29,4 @@
 - 🔗 Service Mesh with **[Istio](https://istio.io/)**
 - 🚪 API Gateway with **Go | [Echo](https://github.com/labstack/echo), [Gin](https://github.com/gin-gonic/gin), [Fiber](https://github.com/gofiber/fiber) Framework, Python | [FastAPI](https://github.com/tiangolo/fastapi)**
 - 🔧 Container Ecosystem with **Kubernetes** and **Docker**
-- 👀 Observability with **Prometheus, Jaeger, Grafana**
-- 💬 Programming with **Golang, Python, Java, C++, C, Rust**
+- 💬 Programming with **Golang, Python, Java, C, C++**
