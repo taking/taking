@@ -15,7 +15,7 @@
 
 - 📫 Ask me anything on my [issues page](https://github.com/taking/taking/issues)
 
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyungtag-park/)
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyungtag-park/), [E-mail](mailto:consine2@gmail.com)
 
 ## Technology & Projects
 
