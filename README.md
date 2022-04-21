@@ -7,7 +7,7 @@
 
 - I major in Computing Science and Engineering in [Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
 
-- 🌱 I’m currently learning ![Algorithm](https://img.shields.io/badge/-Algorithm-005571?style=for-the-badge) ![Advanced-Go](https://img.shields.io/badge/-Advanced_Go-54BEC6?style=for-the-badge) ![Advanced-Java](https://img.shields.io/badge/-Advanced_Java-05988A?style=for-the-badge)
+- 🌱 I’m currently learning [![Algorithm](https://img.shields.io/badge/-Algorithm-005571?style=for-the-badge)](https://github.com/taking/algorithm-solved) [![Advanced-Go](https://img.shields.io/badge/-Advanced_Go-54BEC6?style=for-the-badge)](https://taking.kr/blog/programming/language/golang/) [![Advanced-Java](https://img.shields.io/badge/-Advanced_Java-05988A?style=for-the-badge)](https://taking.kr/blog/programming/language/java/)
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr/blog)
 
