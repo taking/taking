@@ -17,6 +17,22 @@
 
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyungtag-park/)
 
+## Technology & Projects
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=7FD6EA&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![Gedge GM-Center](https://img.shields.io/static/v1?label=&message=2021~2022_Griffin-Edge_GM-CENTER&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/gedge-platform/gm-center/)  |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![2018 graduate assignment in PNU-CSE](https://img.shields.io/static/v1?label=&message=2018_graduate-assignment&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/taking/TeamClear)
+| [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=DEA584&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | [![example](https://img.shields.io/static/v1?label=&message=example&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://#)  |
+| [![JS/TS](https://img.shields.io/static/v1?label=&message=JS/TS&color=3878C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![example](https://img.shields.io/static/v1?label=&message=example&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://#) |
+| [![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=000000&logo=graphql&logoColor=FFFFFF)](https://graphql.org) | [![example](https://img.shields.io/static/v1?label=&message=example&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://#)  |
+| [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=4FA1EF&logo=docker&logoColor=FFFFFF)](https://www.docker.com/) | [![example](https://img.shields.io/static/v1?label=&message=example&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://#)  |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+<div align="center">
+    <i>Not including Private Repositories</i>
+</div>
 
 ## Operating System & Tools
 
