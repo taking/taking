@@ -33,8 +33,8 @@
 
 ## Operating System & Tools
 
-[![macOS](https://img.shields.io/badge/macOS-monterey-%23007ACC?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)](https://insider.windows.com/en-us/insidewindows11)
+[![macOS](https://img.shields.io/badge/macOS-monterey-%23007ACC?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/) [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ## ⚡ Technologies
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=taking">
