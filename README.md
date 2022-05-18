@@ -38,7 +38,7 @@
 [![macOS](https://img.shields.io/badge/macOS-monterey-%23007ACC?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/) [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ## ⚡ Technologies
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=taking">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=taking&show_icons=true">
 
 - 🔗 Service Mesh with **[Istio](https://istio.io/)**
 - 🚪 API Gateway with **Go | [Echo](https://github.com/labstack/echo), [Gin](https://github.com/gin-gonic/gin), [Fiber](https://github.com/gofiber/fiber) Framework, Python | [FastAPI](https://github.com/tiangolo/fastapi)**
