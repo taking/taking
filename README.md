@@ -1,3 +1,10 @@
+
+<a href="https://github.com/taking" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/taking/taking/blob/main/header.png?raw=true" alt="github taking header" />
+</a>
+
+
+
 <h2>Hello, I'm Taking ! 🚀 </h2> 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:consine2@gmail.com)](mailto:consine2@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungtag-park/)](https://www.linkedin.com/in/hyungtag-park/)
