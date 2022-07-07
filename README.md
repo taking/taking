@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning [![Algorithm](https://img.shields.io/badge/-Algorithm-005571?style=for-the-badge)](https://github.com/taking/algorithm-solved) [![Advanced-Go](https://img.shields.io/badge/-Advanced_Go-54BEC6?style=for-the-badge)](https://taking.kr/blog/programming/language/golang/) [![Advanced-Java](https://img.shields.io/badge/-Advanced_Java-05988A?style=for-the-badge)](https://taking.kr/blog/programming/language/java/)
 
-- 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr/blog) [![Gist](https://img.shields.io/badge/-gist-FF4088?style=for-the-badge&logo=Github&logoColor=ffffff)](https://gist.github.com/taking)
+- 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr) [![Gist](https://img.shields.io/badge/-gist-FF4088?style=for-the-badge&logo=Github&logoColor=ffffff)](https://gist.github.com/taking)
 
 - 💬 I like to talk about [Homelabbing](https://taking.kr/blog/about) and OSS
 
