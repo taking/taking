@@ -17,7 +17,7 @@
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr) [![Gist](https://img.shields.io/badge/-gist-FF4088?style=for-the-badge&logo=Github&logoColor=ffffff)](https://gist.github.com/taking)
 
-- 💬 I like to talk about [Homelabbing](https://taking.kr/blog/about) and OSS
+- 💬 I like to talk about Homelabbing and OSS
 
 - 📫 Ask me anything on my [issues page](https://github.com/taking/taking/issues)
 
