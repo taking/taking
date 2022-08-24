@@ -9,22 +9,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:consine2@gmail.com)](mailto:consine2@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungtag-park/)](https://www.linkedin.com/in/hyungtag-park/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=taking)
 
-- I am Taking 😃. I am from South Korea and currently working at R&D Department in INNOGRID ☁. 
+- 저는 'Taking'이라는 닉네임을 사용하고 있어요 😃.
+- 현재 서울에 위치한 클라우드☁ 회사인 [이노그리드(Innogrid)](https://www.innogrid.com)에서 연구개발하고 있어요.
+- 부산에 위치한 [부산대학교](https://cse.pusan.ac.kr/cse/index.do)에서 컴퓨터공학 💻 을 전공했어요.
 
-- I major in Computing Science and Engineering in [Pusan National University of South Korea](https://cse.pusan.ac.kr/cseEng/index..do) 💻. 
+- 🌱 현재 관심있게 보고 있는 주제는 [CNCF](https://landscape.cncf.io/) | [Self-hosted](https://www.reddit.com/r/selfhosted/) | [알고리즘](https://github.com/taking/algorithm-solved) | [GoRoutine](https://go.dev/tour/concurrency/1) 등이 있어요.
 
-- 🌱 I’m currently learning [![Algorithm](https://img.shields.io/badge/-Algorithm-005571?style=for-the-badge)](https://github.com/taking/algorithm-solved) [![Advanced-Go](https://img.shields.io/badge/-Advanced_Go-54BEC6?style=for-the-badge)](https://taking.kr/blog/programming/language/golang/) [![Advanced-Java](https://img.shields.io/badge/-Advanced_Java-05988A?style=for-the-badge)](https://taking.kr/blog/programming/language/java/)
+- 📝 저는 [Taking 블로그](https://taking.kr) / [Github Gist](https://gist.github.com/taking) 에서 정기적으로 글을 작성하고 있어요.
 
-- 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-taking.kr-FF4088?style=for-the-badge&logo=Wordpress&logoColor=ffffff)](https://taking.kr) [![Gist](https://img.shields.io/badge/-gist-FF4088?style=for-the-badge&logo=Github&logoColor=ffffff)](https://gist.github.com/taking)
+- 💬 저는 홈랩 그리고 오픈소스, 신박한 기술에 대한 이야기를 하는 것을 좋아해요.
 
-- 💬 I like to talk about Homelabbing and OSS
+- 📫 제게 무엇이든 물어보려면 [이슈 페이지](https://github.com/taking/taking/issues) 또는 [이메일](mailto:consine2@gmail.com)를 통해 연락주시면 빠르게 답장드릴게요.
 
-- 📫 Ask me anything on my [issues page](https://github.com/taking/taking/issues)
-
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyungtag-park/) and [E-mail](mailto:consine2@gmail.com)
-
-## Technology & Projects
-
+## 진행했던(중인) 프로젝트 목록이에요
 
 | 💻 **Technology**                                             | 🚀 **Projects**                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -35,19 +32,27 @@
 
 
 <div align="center">
-    <i>Not including Private Repositories</i>
+    <i>비공개 프로젝트는 목록에 포함되지 않아요...</i>
 </div>
 
-## Operating System & Tools
+## 사용하고 있는 운영체제와 개발 툴은 다음과 같아요
 
 [![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)](https://insider.windows.com/en-us/insidewindows11)
 [![macOS](https://img.shields.io/badge/macOS-monterey-%23007ACC?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/) [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
-## ⚡ Technologies
+## ⚡ 개발은 다음을 활용하고 있어요
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=taking&show_icons=true">
 
-- 🔧 Container Ecosystem with **Kubernetes** and **Docker**
-- 💬 Programming with **Golang, Python, Java, C/C++**
-- ✔ Framework with **Spring Boot, JPA**
-- 🚪 API Gateway with **Go | [Echo](https://github.com/labstack/echo), [Gin](https://github.com/gin-gonic/gin), [Fiber](https://github.com/gofiber/fiber) Framework, Python | [FastAPI](https://github.com/tiangolo/fastapi)**
-- 🔎 etc with  **AWS, Gitlab Action, Github CI, Knative, ArgoCD**
+- 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다뤄요.
+- 💬 프로그래밍 언어로는 **Go / Python / Java / Javascript** 등을 다루고 있어요. 
+- ✔ 활용할 줄 아는 프레임워크는 다음과 같아요.
+    - **Java - Spring Boot, JPA**
+    - 🚪 API Gateway with **Go** | [Echo](https://github.com/labstack/echo), [Gin](https://github.com/gin-gonic/gin), [Fiber](https://github.com/gofiber/fiber)
+    - 🚪 API Gateway with **Python** | [FastAPI](https://github.com/tiangolo/fastapi)
+    - 🚪 API Gateway with **Node** | [Expressjs](https://github.com/expressjs/express)
+- 🔎 그 이외로는 다음 분류를 통해 개발 생활을 하고 있어요.
+    - **클라우드**(AWS, GCP, OpenStack)
+    - **자동화**(Ansible)
+    - **CI**(Github Action, Gitlab CI)
+    - **CD**(ArgoCD)
+    - **Serverless**(Knative)
