@@ -23,8 +23,6 @@
 
 - 📫 제게 무엇이든 물어보려면 [이슈 페이지](https://github.com/taking/taking/issues) 또는 [이메일](mailto:taking@duck.com)를 통해 연락주시면 빠르게 답장드릴게요.
 
-- 간단 소개서는 [Taking Resume](https://resume.taking.kr)에서 확인하실 수 있어요.
-
 ## 진행했던(중인) 프로젝트 목록이에요
 
 | 💻 **Technology**                                             | 🚀 **Projects**                                               |
