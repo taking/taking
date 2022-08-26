@@ -19,7 +19,7 @@
 
 - 💬 저는 홈랩 그리고 오픈소스, 신박한 기술에 대한 이야기를 하는 것을 좋아해요.
 
-- 📫 제게 무엇이든 물어보려면 [이슈 페이지](https://github.com/taking/taking/issues) 또는 [이메일](mailto:consine2@gmail.com)를 통해 연락주시면 빠르게 답장드릴게요.
+- 📫 제게 무엇이든 물어보려면 [이슈 페이지](https://github.com/taking/taking/issues) 또는 [이메일](mailto:taking@duck.com)를 통해 연락주시면 빠르게 답장드릴게요.
 
 ## 진행했던(중인) 프로젝트 목록이에요
 
