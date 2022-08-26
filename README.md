@@ -6,11 +6,13 @@
 
 <h2>Hello, I'm Taking ! 🚀 </h2> 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:consine2@gmail.com)](mailto:consine2@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungtag-park/)](https://www.linkedin.com/in/hyungtag-park/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:consine2@gmail.com)](mailto:consine2@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungtag-park/)](https://www.linkedin.com/in/hyungtag-park/) [![Notion Badge](https://img.shields.io/badge/-Notion-blue?style=flat-square&logo=Notion&logoColor=white&link=https://resume.taking.kr)](https://resume.taking.kr)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=taking)
 
 - 저는 'Taking'이라는 닉네임을 사용하고 있어요 😃.
+
 - 현재 서울에 위치한 클라우드☁ 회사인 [이노그리드(Innogrid)](https://www.innogrid.com)에서 연구개발하고 있어요.
+
 - 부산에 위치한 [부산대학교](https://cse.pusan.ac.kr/cse/index.do)에서 컴퓨터공학 💻 을 전공했어요.
 
 - 🌱 현재 관심있게 보고 있는 주제는 [CNCF](https://landscape.cncf.io/) | [Self-hosted](https://www.reddit.com/r/selfhosted/) | [알고리즘](https://github.com/taking/algorithm-solved) | [GoRoutine](https://go.dev/tour/concurrency/1) 등이 있어요.
@@ -20,6 +22,8 @@
 - 💬 저는 홈랩 그리고 오픈소스, 신박한 기술에 대한 이야기를 하는 것을 좋아해요.
 
 - 📫 제게 무엇이든 물어보려면 [이슈 페이지](https://github.com/taking/taking/issues) 또는 [이메일](mailto:taking@duck.com)를 통해 연락주시면 빠르게 답장드릴게요.
+
+- 간단 소개서는 [Taking Resume](https://resume.taking.kr)에서 확인하실 수 있어요.
 
 ## 진행했던(중인) 프로젝트 목록이에요
 
