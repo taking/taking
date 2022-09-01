@@ -32,16 +32,22 @@ cask "microsoft-edge"                 # Internet Browser
 cask "visual-studio-code"             # IDE
 cask "adoptopenjdk8"                  # Java Development Kit
 cask "mark-text"                      # Markdown Editor
-cask "adguard"                        # Remove Ads
+cask "adguard"                        # Remove Ads (Paid)
 cask "authy"                          # OTP
 cask "bettertouchtool"
-cask "dash"                           # Api Documentation
+cask "dash"                           # Api Documentation (Paid)
 cask "dropbox"
 cask "fig"
-cask "forklift"                       # File Manager
+cask "forklift"                       # File Manager (Paid)
 cask "notion"                         # Note
 cask "postman"                        # API Test
 cask "shottr"                         # Screenshot
+# cask "cleanshot"                    # Screenshot (Paid)
+cask "movist-pro"                     # Video Player (Paid)
+cask "calendar-366"                   # Calendar (Paid)
+cask "istat-menus"                    # Stats (Paid)
+cask "parsec"                         # Remote Desktop
+cask "transmit"                       # file transfer apps (Paid)
 
 # Apps
 mas "KakaoTalk", id: 869223134
@@ -54,6 +60,7 @@ mas "Fantastical", id: 975937182
 mas "Spark", id: 1176895641
 mas "Terminus", id: 1176074088
 mas "UpNote", id: 1398373917
+mas "NordVPN", id: 905953485
 
 # fonts
 cask 'homebrew/cask-fonts/font-d2coding'
