@@ -21,5 +21,11 @@ echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/ForkLift.app
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Notion.app
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Postman.app
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Shottr.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/CleanShot\ X.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Movist\ Pro.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Calendar\ 366\ II.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/iStat\ Menus.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Parsec.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Transmit.app
 
 printf '\n\n🎉 Congrat! Your mac has been set up successfully!\n'
