@@ -16,6 +16,8 @@ alias cp='cp -i'
 alias mv='mv -i'
 alias ll='ls -lh'
 alias fsize='du -hsx * | sort -rh | head -n 10'
+alias dh='df -h -x tmpfs -x devtmpfs -x squashfs'
+alias ttfb='curl -so /dev/null -w "HTTP %{http_version} %{http_code} Remote IP: %{remote_ip}\nConnect: %{time_connect}\nTTFB: %{time_starttransfer}\nTotal time: %{time_total}\nDownload speed: %{speed_download}bps\nBytes: %{size_download}\n"'
 
 # NeoVim settings
 # export EDITOR=/bin/nvim
