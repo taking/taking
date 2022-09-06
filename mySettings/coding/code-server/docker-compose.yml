@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+  code:
+    image: "ghcr.io/linuxserver/code-server:latest"
+    container_name: code
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=Asia/Seoul
+      - PASSWORD=password
+      - SUDO_PASSWORD=password
+      - DISABLE_TELEMETRY=true
+    ports:
+      - 12345:12345
+    volumes:
+      - ./code_data:/config
+    restart: unless-stopped
