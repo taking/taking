@@ -1,5 +1,24 @@
 #!/usr/bin/with-contenv bash
 
+# amd64
+DL_PATH_URL="$(wget --no-check-certificate -qO- https://golang.org/dl/ | grep -oP '\/dl\/go([0-9\.]+)\.linux-amd64\.tar\.gz' | head -n 1)" 
+go_latest_ver="$(echo $DL_PATH_URL | grep -oP 'go[0-9\.]+' | grep -oP '[0-9\.]+' | head -c -2 )"
+echo "go ver is $go_latest_ver"
+
+if [ -d /usr/local/go ]; then
+    echo "Golang already installed, skipping"
+else
+    echo "--go downloading...--"
+    cd ~/
+    wget --no-check-certificate --continue --show-progress https://golang.org/dl/go${go_latest_ver}.linux-amd64.tar.gz
+    tar -xzf go${go_latest_ver}.linux-amd64.tar.gz
+    sudo mv go /usr/local
+    rm ~/go${go_latest_ver}.linux-amd64.tar.gz
+    
+    echo "Installing gcc, to make CGO work"
+    apt-get install -y gcc
+fi
+
 echo "ensuring golang is in PATH"
 if grep -q -E '^(export )?PATH=' /etc/services.d/code-server/run; then
     if ! grep -q -E '^(export )?PATH=.*/usr/local/go/bin.*' /etc/services.d/code-server/run; then
@@ -10,16 +29,4 @@ if grep -q -E '^(export )?PATH=' /etc/services.d/code-server/run; then
     fi
 else
     sed -i '/^#!\/usr\/bin/a \\n# Added by codeserver-golang\nexport PATH=/config/go/bin:$PATH:/usr/local/go/bin' /etc/services.d/code-server/run
-fi
-
-ARCH=$(uname -m)
-if [ -f "/golang/golang_${ARCH}.tar.gz" ]; then
-    echo "Installing golang"
-    tar xzf "/golang/golang_${ARCH}.tar.gz" -C /usr/local
-    rm -rf /golang
-
-    echo "Installing gcc, to make CGO work"
-    apt-get install -y gcc
-else
-    echo "Golang already installed, skipping"
 fi

@@ -14,4 +14,6 @@ services:
       - 12345:12345
     volumes:
       - ./code_data:/config
+      - ./custom-init/custom-cont-init.d:/config/custom-cont-init.d:ro
+      - ./custom-init/custom-services.d:/config/custom-services.d:ro
     restart: unless-stopped

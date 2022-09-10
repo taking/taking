@@ -27,5 +27,6 @@ echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Calendar\ 36
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/iStat\ Menus.app
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Parsec.app
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Transmit.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Raycast.app
 
 printf '\n\n🎉 Congrat! Your mac has been set up successfully!\n'
