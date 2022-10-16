@@ -31,7 +31,7 @@ export HISTTIMEFORMAT
 
 # Git Username/Email
 git config --global user.name "taking"
-git config --global user.email "consine2@gmail.com"
+git config --global user.email "taking@duck.com"
 
 # Git Logs
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"

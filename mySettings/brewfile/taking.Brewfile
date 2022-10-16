@@ -49,6 +49,7 @@ cask "istat-menus"                    # Stats (Paid)
 cask "parsec"                         # Remote Desktop
 cask "transmit"                       # file transfer apps (Paid)
 cask "raycast"                        # Alternative Alfred
+cask "quitter"
 
 # Apps
 mas "KakaoTalk", id: 869223134

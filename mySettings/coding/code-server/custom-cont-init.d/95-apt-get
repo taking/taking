@@ -5,4 +5,4 @@ apt install curl wget vim git -y
 
 echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
 
-sed -i 's/8443/12345/g' /etc/services.d/code-server/run
+#sed -i 's/8443/12345/g' /etc/services.d/code-server/run

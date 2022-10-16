@@ -9,9 +9,9 @@
   "editor.cursorBlinking": "phase",
   "editor.guides.indentation": true,
   "editor.codeActionsOnSave": {},
-  "editor.lineHeight" : 26,
-  "editor.suggestSelection" : "first",
-  "editor.renderLineHighlight" : "gutter",
+  "editor.lineHeight": 26,
+  "editor.suggestSelection": "first",
+  "editor.renderLineHighlight": "gutter",
   "editor.suggest.showStatusBar": true,
   "files.eol": "\n",
   "terminal.integrated.fontSize": 18,
@@ -24,11 +24,11 @@
   "workbench.colorTheme": "Monokai",
   "workbench.statusBar.visible": true,
   "workbench.activityBar.visible": true,
-  "vsicons.dontShowNewVersionMessage": true,  // vscode-icons
+  // vscode-icons
+  "vsicons.dontShowNewVersionMessage": true,
   // Theme & Icon Stop
 
-
-  // go Start
+  // Go Start
   "go.lintOnSave": "file",
   "go.formatTool": "goimports",
   "go.languageServerFlags": ["-rpc.trace"],
@@ -42,9 +42,8 @@
   },
   // go End
 
-  // Prettier
-  "editor.defaultFormatter": "esbenp.prettier-vscode",  // Prettier - Code formatter
-
+  // Prettier - Code formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   //한 줄이 이 글자수를 넘게 되면 들여쓰기되어 코드가 세로로 정리된다. (default: 80)
   "prettier.printWidth": 150,
@@ -58,9 +57,9 @@
   "prettier.singleQuote": false,
   "prettier.jsxSingleQuote": false,
   /*객체, 배열, 함수 등의 후행에 쉼표를 찍을지 제어
-  "none" - 쉼표를 붙히지 않음
-  "es5" - ES5에서 유효한 후행 쉼표 붙힘 (객체, 배열 등)
-  "all" - 가능하면 후행 쉼표를 붙힘 (함수 인수)*/
+    "none" - 쉼표를 붙히지 않음
+    "es5" - ES5에서 유효한 후행 쉼표 붙힘 (객체, 배열 등)
+    "all" - 가능하면 후행 쉼표를 붙힘 (함수 인수)*/
   "prettier.trailingComma": "all",
   //객체 리터럴 사용시 괄호에 공백 삽입 여부 (default: true)
   "prettier.bracketSpacing": true,
@@ -81,75 +80,75 @@
   "gitlens.changes.toggleMode": "file",
   "gitlens.defaultDateLocale": "ko-KR",
   "gitlens.defaultDateFormat": "YYYY-MM-DD H:MM:mm",
-  "gitlens.codeLens.scopes": [
-    "document",
-    "containers"
-  ],
+  "gitlens.codeLens.scopes": ["document", "containers"],
   "gitlens.advanced.messages": {
-      "suppressShowKeyBindingsNotice": true
+    "suppressShowKeyBindingsNotice": true
   },
   // Gitlens End
 
   // auto-close-tag Start
   "auto-close-tag.SublimeText3Mode": true,
   "auto-close-tag.activationOnLanguage": [
-      "html",
-      "xml",
-      "php",
-      "css",
-      "javascript",
-      "js",
-      "vue"
+    "html",
+    "xml",
+    "php",
+    "css",
+    "javascript",
+    "js",
+    "vue"
   ],
   // auto-close-tag End
 
   // indentRainbow Start
-  "indentRainbow.ignoreErrorLanguages" : [
-    "markdown"
-  ],
+  "indentRainbow.ignoreErrorLanguages": ["markdown"],
   // indentRainbow End
 
   // Gitmoji Start
-  {
-    "gitmoji.additionalEmojis": [
-      {
-        "emoji": "🐛",
-        "code": ":bug:",
-        "description": "Fix a bug.",
-        "description_ko_kr": "BUG 수정"
-      },
-      {
-        "emoji": "🚑",
-        "code": ":ambulance:",
-        "description": "Critical hotfix.",
-        "description_zh_cn": "크리티컬 긴급수정"
-      }
-    ]
-  },
+  "gitmoji.additionalEmojis": [
+    {
+      "emoji": "🐛",
+      "code": ":bug:",
+      "description": "Fix a bug.",
+      "description_ko_kr": "BUG 수정"
+    },
+    {
+      "emoji": "🚑",
+      "code": ":ambulance:",
+      "description": "Critical hotfix.",
+      "description_zh_cn": "크리티컬 긴급수정"
+    }
+  ],
   // Gitmoji End
 
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
 }
 
 /*
-[vs-code server extenstions]
-  - Prettier - Code formatter
-  - GitLens — Git supercharged
-  - Go
-  - Auto Close Tag
-  - vscode-icons
-  - Git Graph
-  - Markdown All in One
-  - Todo Tree
-  - indent-rainbow
-  - MySQL
-  - Settings Sync
-  - Thunder Client (restAPI)
-  - Auto Rename Tag
-  - Korean(사용법) Language Pack for Visual Studio Code
-  - filesize
-  - Git History
-  - gitignore
-    : Ctrl + Shift + P > gitignore
-  - Gitmoji
-
-*/
+  [vs-code server extenstions]
+    - Prettier - Code formatter
+    - GitLens — Git supercharged
+    - Go
+    - Auto Close Tag
+    - vscode-icons
+    - Git Graph
+    - Markdown All in One
+    - Todo Tree
+    - indent-rainbow
+    - MySQL
+    - Settings Sync
+    - Thunder Client (restAPI)
+    - Auto Rename Tag
+    - Korean(사용법) Language Pack for Visual Studio Code
+    - filesize
+    - Git History
+    - gitignore
+      : Ctrl + Shift + P > gitignore
+    - Gitmoji
+    - Better Comments
+      // * IMPORTANT INFORMATION
+      // ! WARNING: THERE IS AN ERROR HERE
+      // ? QUESTION: What is the tag used for?
+      // TODO ADD A DARK THEME COMPONENT  
+    - Import Cost
+  */

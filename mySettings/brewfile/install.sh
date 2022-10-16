@@ -28,5 +28,6 @@ echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/iStat\ Menus
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Parsec.app
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Transmit.app
 echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Raycast.app
+echo "$pass" | sudo -S xattr -dr com.apple.quarantine /Applications/Quitter.app
 
 printf '\n\n🎉 Congrat! Your mac has been set up successfully!\n'

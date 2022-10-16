@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+  openvscode:
+    image: "lscr.io/linuxserver/openvscode-server:latest"
+    container_name: openvscode
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=Asia/Seoul
+      # - CONNECTION_TOKEN=PASSWORD # (Option) https://localhost:3000/?tkn=PASSWORD
+      # - SUDO_PASSWORD=PASSWORD # Option
+      # - DOCKER_MODS=linuxserver/mods:code-server-golang|linuxserver/mods:code-server-java11|linuxserver/mods:code-server-nodejs|linuxserver/mods:code-server-python3|linuxserver/mods:code-server-zsh # Option
+    ports:
+      - 3000:3000
+    volumes:
+      - $DOCKER_ROOT/openvscode_data:/config
+    restart: unless-stopped
