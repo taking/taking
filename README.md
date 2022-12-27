@@ -4,7 +4,7 @@
 
 <h2>Hello, I'm Taking ! 🚀 </h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taking@duck.com)](mailto:consine2@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungtag-park/)](https://www.linkedin.com/in/hyungtag-park/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taking@duck.com)](mailto:taking@duck.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyungtag-park/)](https://www.linkedin.com/in/hyungtag-park/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=taking)
 
 - 저는 'Taking'이라는 닉네임을 사용하고 있어요 😃.
