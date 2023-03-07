@@ -39,7 +39,7 @@
 ## 사용하고 있는 운영체제와 개발 툴은 다음과 같아요
 
 [![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)](https://insider.windows.com/en-us/insidewindows11)
-[![macOS](https://img.shields.io/badge/macOS-monterey-%23007ACC?style=flat-square&logo=apple)](https://www.apple.com/macos/monterey/) [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![macOS](https://img.shields.io/badge/macOS-Ventura-%23007ACC?style=flat-square&logo=apple)](https://www.apple.com/macos/ventura/) [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ## ⚡ 개발은 다음을 활용하고 있어요
 
