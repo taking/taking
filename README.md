@@ -59,3 +59,10 @@
   - **CI**(Github Action, Gitlab CI)
   - **CD**(ArgoCD)
   - **Serverless**(Knative)
+
+
+### 기여
+- [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center)
+- [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool)
+- [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment)
+- [rocky-linux/rocky](https://github.com/rocky-linux/rocky)
