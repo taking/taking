@@ -62,6 +62,7 @@
 
 
 ### 기여
+- [Medge-platform/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo)
 - [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center)
 - [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool)
 - [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment)
