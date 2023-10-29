@@ -64,8 +64,6 @@
 ### Contribute
 - [nw-backend](https://github.com/lab-cherry/nw-backend) (Private Repo) **[Maintainer]**
 - [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo)
-- [nw-backend](https://github.com/lab-cherry/nw-backend) (Private Repo) **[Maintainer]**
-- [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo)
 - [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo)  **[Maintainer]**
 - [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center)  **[Maintainer]**
 - [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool)
