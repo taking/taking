@@ -47,8 +47,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=taking&show_icons=true">
 
+- ✔ [개인 홈 서버](https://taking.kr/about)를 직접 구축하고 관리하고 이를 개발에 활용하고 있어요.
 - 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다뤄요.
-- 💬 프로그래밍 언어로는 **Go / Python / Java / Javascript** 등을 다루고 있어요.
+- 💬 프로그래밍 언어로는 **Java / Go / Python / Javascript** 등을 다루고 있어요.
 - ✔ 활용할 줄 아는 프레임워크는 다음과 같아요.
   - **Java - Spring Boot, Spring Data JPA**
   - 🚪 API Gateway with **Go** | [Echo](https://github.com/labstack/echo), [Gin](https://github.com/gin-gonic/gin), [Fiber](https://github.com/gofiber/fiber)
@@ -57,16 +58,20 @@
 - 🔎 그 이외로는 다음 분류를 통해 개발 생활을 하고 있어요.
   - **클라우드**(AWS, GCP, OpenStack)
   - **자동화**(Ansible)
-  - **이슈 및 프로젝트 관리**(Jetbrain Space Self-Hosted)
-  - **CI**(Github Action, Gitlab CI)
-  - **CD**(ArgoCD)
+  - **이슈 및 프로젝트 관리**(Atlassian Jira & Confluence | Jetbrain Space Self-Hosted)
+  - **CI/CD**(Github Action, Gitlab CI/CD)
+  - **GitOps**(ArgoCD)
 
-
-### Contribute
+### Maintainer
 - [nw-backend](https://github.com/taking/nw-backend) **[Maintainer]**
-- [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo)
+- [java-spring-base-structure](https://github.com/taking/java-spring-base-structure) **[Maintainer]**
+- [dynamic-k8s](https://github.com/taking/dynamic-k8s) **[Maintainer]**
+- [popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[Maintainer]**
 - [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo)  **[Maintainer]**
 - [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center)  **[Maintainer]**
+
+### Contribute
+- [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo)
 - [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool)
 - [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment)
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky)
