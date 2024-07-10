@@ -2,8 +2,11 @@
 # Author by Taking
 # (2) java language install + env
 
-ARCH=$(dpkg --print-architecture)
-DOWNLOAD_URL=https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jdk_$ARCH_linux_hotspot_21.0.3_9.tar.gz
+ARCH=$(uname -m)
+if [ "$ARCH" = "x86_64" ]; then
+    ARCH="x64"
+fi
+DOWNLOAD_URL=https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jdk_${ARCH}_linux_hotspot_21.0.3_9.tar.gz
 
 if [ -d /usr/lib/jdk-21.0.3/bin/java ]; then
     echo -e "${RED}--java exist.. PASS--${NC}"
