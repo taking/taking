@@ -8,8 +8,7 @@ NC='\033[0m'
 if command -v zsh >/dev/null 2>&1; then
     echo -e "${RED}--zsh exist.. PASS--${NC}"
 else
-    sudo apt install zsh -y
-    chsh -s $(which zsh)
+    apt update && apt install zsh -y && chsh -s $(which zsh)
 
     oh-my-zsh_folder="$HOME/.oh-my-zsh/"
 
