@@ -10,7 +10,7 @@ if command -v zsh >/dev/null 2>&1; then
 else
     apt update && apt install zsh -y && chsh -s $(which zsh)
 
-    locale-gen en_US.UTF-8
+    apt install locales -y && locale-gen en_US.UTF-8
 
     oh-my-zsh_folder="$HOME/.oh-my-zsh/"
 
