@@ -2,30 +2,30 @@
 # Author by Taking
 # (3) zsh + oh-my-zsh install + env
 
+RED='\033[0;31m'
+NC='\033[0m'
 
-if [ -d /usr/bin/zsh ]; then
+if command -v zsh >/dev/null 2>&1; then
     echo -e "${RED}--zsh exist.. PASS--${NC}"
 else
     sudo apt install zsh -y
-fi
+    chsh -s $(which zsh)
 
-chsh -s `which zsh`
+    oh-my-zsh_folder="$HOME/.oh-my-zsh/"
 
-oh-my-zsh_folder="$HOME/.oh-my-zsh/"
+    if [ -d "$oh-my-zsh_folder" ]; then
+        echo "oh-my-zsh Exists"
+    else
+        echo "oh-my-zsh Installing"
+        curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+        git clone https://github.com/powerline/fonts.git && ./fonts/install.sh && rm -rf ~/fonts
 
-if [ -d "$oh-my-zsh_folder" ]; then
-  echo "oh-my-zsh Exists"
-else
-  echo "oh-my-zsh Installing"
-  curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
-  git clone https://github.com/powerline/fonts.git && ./fonts/install.sh && rm -rf ~/fonts
+        cd $HOME/.oh-my-zsh/custom/plugins
+        git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $HOME/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+        git clone https://github.com/zsh-users/zsh-autosuggestions.git $HOME/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+        git clone https://github.com/djui/alias-tips.git $HOME/.oh-my-zsh/custom/plugins/alias-tips
 
-  cd $HOME/.oh-my-zsh/custom/plugins
-  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $HOME/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting && \
-  git clone https://github.com/zsh-users/zsh-autosuggestions.git $HOME/.oh-my-zsh/custom/plugins/zsh-autosuggestions && \
-  git clone https://github.com/djui/alias-tips.git $HOME/.oh-my-zsh/custom/plugins/alias-tips
-
-  cat <<'EOF' > $HOME/.zshrc
+        cat <<'EOF' > $HOME/.zshrc
 export ZSH=$HOME/.oh-my-zsh
 DEFAULT_USER="$USER"
 ZSH_THEME="agnoster"
@@ -47,10 +47,10 @@ alias fsize='du -hsx * | sort -rh | head -n 10'
 alias dh='df -h -x tmpfs -x devtmpfs -x squashfs'
 alias ttfb='curl -so /dev/null -w "HTTP %{http_version} %{http_code} Remote IP: %{remote_ip}\nConnect: %{time_connect}\nTTFB: %{time_starttransfer}\nTotal time: %{time_total}\nDownload speed: %{speed_download}bps\nBytes: %{size_download}\n"'
 
-# NeoVim settings
+# vim settings
 # export EDITOR=/bin/nvim
-alias vi="nvim"
-alias vim="nvim"
+alias vi="vim"
+alias vim="vim"
 alias vimdiff="nvim -d"
 
 HISTTIMEFORMAT="[%d.%m.%y] %T   "
@@ -70,4 +70,5 @@ bindkey "^[OH" beginning-of-line
 bindkey "^[OF" end-of-line
 esac
 EOF
+    fi
 fi
