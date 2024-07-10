@@ -20,11 +20,11 @@ else
     sudo mv go /usr/local
     rm ~/$GO_FILE
     
-    echo 'export PATH=$PATH:/usr/local/go/bin' | sudo tee -a /etc/profile
-    echo 'export GOPATH=$HOME/GO' | sudo tee -a /etc/profile
-    echo 'export PATH=$PATH:$GOPATH/bin' | sudo tee -a /etc/profile
+    echo 'export PATH=$PATH:/usr/local/go/bin' | sudo tee -a $HOME/.zshrc
+    echo 'export GOPATH=$HOME/GO' | sudo tee -a $HOME/.zshrc
+    echo 'export PATH=$PATH:$GOPATH/bin' | sudo tee -a $HOME/.zshrc
 
-    source /etc/profile
+    source $HOME/.zshrc
 
     ## Test if Golang is working
     go version

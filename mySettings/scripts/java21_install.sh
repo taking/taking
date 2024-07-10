@@ -18,11 +18,11 @@ else
     mv jdk-21.0.3+9/ /usr/lib/jdk-21.0.3
     rm ~/OpenJDK21U-jdk_x64_linux_hotspot_21.0.3_9.tar.gz
     
-    echo 'export JAVA_HOME=/usr/lib/jdk-21.0.3' | sudo tee -a /etc/profile
-    echo 'export PATH=$JAVA_HOME/bin/:$PATH' | sudo tee -a /etc/profile
-    echo 'export CLASS_PATH=$JAVA_HOME/lib:$CLASS_PATH' | sudo tee -a /etc/profile
+    echo 'export JAVA_HOME=/usr/lib/jdk-21.0.3' | sudo tee -a $HOME/.zshrc
+    echo 'export PATH=$JAVA_HOME/bin/:$PATH' | sudo tee -a $HOME/.zshrc
+    echo 'export CLASS_PATH=$JAVA_HOME/lib:$CLASS_PATH' | sudo tee -a $HOME/.zshrc
 
-    source /etc/profile
+    source $HOME/.zshrc
 
     ## Test if Java is working
     java --version
