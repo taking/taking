@@ -1,4 +1,15 @@
 #!/bin/bash
+# Author by Taking
+# (3) zsh + oh-my-zsh install + env
+
+
+if [ -d /usr/bin/zsh ]; then
+    echo -e "${RED}--zsh exist.. PASS--${NC}"
+else
+    sudo apt install zsh -y
+fi
+
+chsh -s `which zsh`
 
 oh-my-zsh_folder="$HOME/.oh-my-zsh/"
 
