@@ -1,8 +1,3 @@
-The error you're encountering is due to improper JSON formatting within the script. Specifically, there's an issue with a line containing `"description_ko_kr": "BUG 수정","remote.SSH.remotePlatform": {...}`. This line is incorrectly formatted because it combines two separate JSON properties. 
-
-Here's the corrected script with the necessary adjustments:
-
-```bash
 #!/bin/bash
 
 extension_folder="/tmp/extensions"
@@ -270,3 +265,5 @@ cat > $HOME/.vscode-server/data/Machine/settings.json << EOF
   "java.format.settings.profile": "GoogleStyle"
   // Google Style Guide End
 }
+EOF
+fi
