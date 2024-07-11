@@ -1,3 +1,8 @@
+The error you're encountering is due to improper JSON formatting within the script. Specifically, there's an issue with a line containing `"description_ko_kr": "BUG 수정","remote.SSH.remotePlatform": {...}`. This line is incorrectly formatted because it combines two separate JSON properties. 
+
+Here's the corrected script with the necessary adjustments:
+
+```bash
 #!/bin/bash
 
 extension_folder="/tmp/extensions"
@@ -37,7 +42,7 @@ else
   
   cat > $HOME/.local/share/code-server/User/settings.json << EOF
 {
- "remote.SSH.defaultExtensions": [
+  "remote.SSH.defaultExtensions": [
     "formulahendry.auto-rename-tag",
     "formulahendry.auto-close-tag",
     "Arjun.swagger-viewer",
@@ -71,14 +76,12 @@ else
   "editor.rulers": [100, 120],
   "editor.cursorBlinking": "phase",
   "editor.guides.indentation": true,
-  "editor.codeActionsOnSave": {
-  
-  },
-  "editor.lineHeight" : 26,
-  "editor.suggestSelection" : "first",
-  "editor.renderLineHighlight" : "gutter",
+  "editor.codeActionsOnSave": {},
+  "editor.lineHeight": 26,
+  "editor.suggestSelection": "first",
+  "editor.renderLineHighlight": "gutter",
   "editor.suggest.showStatusBar": true,
-  "files.eol": "\n",
+  "files.eol": "\\n",
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeightBold": "bold",
   "ActiveFileInStatusBar.enable": true,
@@ -90,7 +93,7 @@ else
   "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.statusBar.visible": true,
   "workbench.activityBar.visible": true,
-  "vsicons.dontShowNewVersionMessage": true,  // vscode-icons
+  "vsicons.dontShowNewVersionMessage": true,
   // Theme & Icon Stop
 
   // "editor.formatOnSave": false,
@@ -134,7 +137,7 @@ else
       "emoji": "🐛",
       "code": ":bug:",
       "description": "Fix a bug.",
-      "description_ko_kr": "BUG 수정","remote.SSH.remotePlatform": {"coder-vscode--taking--nw":"linux","coder-vscode--taking--gedge--main":"linux","coder-vscode--taking--nw--main":"linux"}
+      "description_ko_kr": "BUG 수정"
     },
     {
       "emoji": "🚑",
@@ -154,9 +157,9 @@ EOF
 
 mkdir -p $HOME/.vscode-server/data/Machine/
 touch $HOME/.vscode-server/data/Machine/settings.json
-  cat > $HOME/.vscode-server/data/Machine/settings.json << EOF
+cat > $HOME/.vscode-server/data/Machine/settings.json << EOF
 {
- "remote.SSH.defaultExtensions": [
+  "remote.SSH.defaultExtensions": [
     "formulahendry.auto-rename-tag",
     "formulahendry.auto-close-tag",
     "Arjun.swagger-viewer",
@@ -190,14 +193,12 @@ touch $HOME/.vscode-server/data/Machine/settings.json
   "editor.rulers": [100, 120],
   "editor.cursorBlinking": "phase",
   "editor.guides.indentation": true,
-  "editor.codeActionsOnSave": {
-  
-  },
-  "editor.lineHeight" : 26,
-  "editor.suggestSelection" : "first",
-  "editor.renderLineHighlight" : "gutter",
+  "editor.codeActionsOnSave": {},
+  "editor.lineHeight": 26,
+  "editor.suggestSelection": "first",
+  "editor.renderLineHighlight": "gutter",
   "editor.suggest.showStatusBar": true,
-  "files.eol": "\n",
+  "files.eol": "\\n",
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeightBold": "bold",
   "ActiveFileInStatusBar.enable": true,
@@ -209,7 +210,7 @@ touch $HOME/.vscode-server/data/Machine/settings.json
   "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.statusBar.visible": true,
   "workbench.activityBar.visible": true,
-  "vsicons.dontShowNewVersionMessage": true,  // vscode-icons
+  "vsicons.dontShowNewVersionMessage": true,
   // Theme & Icon Stop
 
   // "editor.formatOnSave": false,
@@ -253,7 +254,7 @@ touch $HOME/.vscode-server/data/Machine/settings.json
       "emoji": "🐛",
       "code": ":bug:",
       "description": "Fix a bug.",
-      "description_ko_kr": "BUG 수정","remote.SSH.remotePlatform": {"coder-vscode--taking--nw":"linux","coder-vscode--taking--gedge--main":"linux","coder-vscode--taking--nw--main":"linux"}
+      "description_ko_kr": "BUG 수정"
     },
     {
       "emoji": "🚑",
@@ -269,7 +270,3 @@ touch $HOME/.vscode-server/data/Machine/settings.json
   "java.format.settings.profile": "GoogleStyle"
   // Google Style Guide End
 }
-EOF
-
-
-fi
