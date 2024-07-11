@@ -15,7 +15,7 @@ else
     cd ~/
     wget --no-check-certificate --continue --show-progress $DOWNLOAD_URL
     tar xvzf OpenJDK21U-jdk_x64_linux_hotspot_21.0.3_9.tar.gz
-    mv jdk-21.0.3+9/ /usr/lib/jdk-21.0.3
+    sudo mv jdk-21.0.3+9/ /usr/lib/jdk-21.0.3
     rm ~/OpenJDK21U-jdk_x64_linux_hotspot_21.0.3_9.tar.gz
     
     echo 'export JAVA_HOME=/usr/lib/jdk-21.0.3' | sudo tee -a $HOME/.zshrc

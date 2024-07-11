@@ -8,9 +8,9 @@ NC='\033[0m'
 if command -v zsh >/dev/null 2>&1; then
     echo -e "${RED}--zsh exist.. PASS--${NC}"
 else
-    apt update && apt install zsh -y && chsh -s $(which zsh)
+    sudo apt update && sudo apt install zsh -y && sudo chsh -s $(which zsh)
 
-    apt install locales -y && locale-gen en_US.UTF-8
+    sudo apt install locales -y && sudo locale-gen en_US.UTF-8
 
     oh-my-zsh_folder="$HOME/.oh-my-zsh/"
 
