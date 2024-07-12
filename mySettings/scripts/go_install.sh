@@ -24,6 +24,10 @@ else
     echo 'export GOPATH=$HOME/GO' | sudo tee -a $HOME/.zshrc
     echo 'export PATH=$PATH:$GOPATH/bin' | sudo tee -a $HOME/.zshrc
 
+    echo 'export PATH=$PATH:/usr/local/go/bin' | sudo tee -a $HOME/.bashrc
+    echo 'export GOPATH=$HOME/GO' | sudo tee -a $HOME/.bashrc
+    echo 'export PATH=$PATH:$GOPATH/bin' | sudo tee -a $HOME/.bashrc
+
     source $HOME/.zshrc
 
     ## Test if Golang is working

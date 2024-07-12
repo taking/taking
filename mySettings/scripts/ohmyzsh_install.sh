@@ -52,15 +52,14 @@ alias ttfb='curl -so /dev/null -w "HTTP %{http_version} %{http_code} Remote IP: 
 # export EDITOR=/bin/nvim
 alias vi="vim"
 alias vim="vim"
-alias vimdiff="nvim -d"
 
 HISTTIMEFORMAT="[%d.%m.%y] %T   "
 export HISTSIZE=10000
 export HISTTIMEFORMAT
 
 # Git Username/Email
-git config --global user.name "taking"
-git config --global user.email "taking@duck.com"
+# git config --global user.name "taking"
+# git config --global user.email "taking@duck.com"
 
 # Git Logs
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"

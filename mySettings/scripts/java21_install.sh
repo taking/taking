@@ -21,6 +21,10 @@ else
     echo 'export JAVA_HOME=/usr/lib/jdk-21.0.3' | sudo tee -a $HOME/.zshrc
     echo 'export PATH=$JAVA_HOME/bin/:$PATH' | sudo tee -a $HOME/.zshrc
     echo 'export CLASS_PATH=$JAVA_HOME/lib:$CLASS_PATH' | sudo tee -a $HOME/.zshrc
+    
+    echo 'export JAVA_HOME=/usr/lib/jdk-21.0.3' | sudo tee -a $HOME/.bashrc
+    echo 'export PATH=$JAVA_HOME/bin/:$PATH' | sudo tee -a $HOME/.bashrc
+    echo 'export CLASS_PATH=$JAVA_HOME/lib:$CLASS_PATH' | sudo tee -a $HOME/.bashrc
 
     source $HOME/.zshrc
 
