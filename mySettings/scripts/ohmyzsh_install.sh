@@ -19,7 +19,7 @@ else
     else
         echo "oh-my-zsh Installing"
         curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
-        git clone https://github.com/powerline/fonts.git && ./fonts/install.sh && rm -rf ~/fonts
+        git clone https://github.com/powerline/fonts.git && ./fonts/install.sh && rm -rf ./fonts
 
         cd $HOME/.oh-my-zsh/custom/plugins
         git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $HOME/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
