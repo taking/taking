@@ -70,5 +70,9 @@ bindkey "^[OH" beginning-of-line
 bindkey "^[OF" end-of-line
 esac
 EOF
+
+        echo 'if [ -t 1 ]; then' | sudo tee -a $HOME/.bashrc
+        echo '  exec zsh' | sudo tee -a $HOME/.bashrc
+        echo 'fi' | sudo tee -a $HOME/.bashrc
     fi
 fi
