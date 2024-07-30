@@ -19,11 +19,25 @@ alias fsize='du -hsx * | sort -rh | head -n 10'
 alias dh='df -h -x tmpfs -x devtmpfs -x squashfs'
 alias ttfb='curl -so /dev/null -w "HTTP %{http_version} %{http_code} Remote IP: %{remote_ip}\nConnect: %{time_connect}\nTTFB: %{time_starttransfer}\nTotal time: %{time_total}\nDownload speed: %{speed_download}bps\nBytes: %{size_download}\n"'
 
-# NeoVim settings
-# export EDITOR=/bin/nvim
-alias vi="nvim"
-alias vim="nvim"
-alias vimdiff="nvim -d"
+# hx settings
+alias vi="hx"
+alias vim="hx"
+
+# dust settings
+alias du='dust'
+alias dh='du -sH'
+
+# duf settings
+alias df='duf'
+
+# curlie settings
+alias curl='curlie'
+
+# procs settings
+alias ps='procs'
+
+# fd settings
+alias find='fd'
 
 HISTTIMEFORMAT="[%d.%m.%y] %T   "
 export HISTSIZE=10000
