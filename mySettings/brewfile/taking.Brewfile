@@ -68,7 +68,9 @@ cask "fantastical"                    # Calendar software (Paid License)
 cask "imageoptim"                     # Tool to optimise images to a smaller size
 cask "menubarx"                       # Menu bar browser
 
-# sorted
+# fonts
+cask "font-hack"
+cask "font-jetbrains-mono"
 
 # Apps
 mas "Sorted³ - 캘린더 노트 할 일", id: 1306893526
