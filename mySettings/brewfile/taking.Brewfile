@@ -2,12 +2,13 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+tap "oven-sh/bun"
 
 # Binaries/Libraries
-brew "coreutils"			                # Install GNU Core Utilities
+brew "coreutils"                      # Install GNU Core Utilities
 brew "openjdk@21"                     # Java Development Kit
-brew "asciinema"			                # Terminal Record
-brew "helix"                         # Post-modern modal text editor
+brew "asciinema"                      # Terminal Record
+brew "helix"                          # Post-modern modal text editor
 brew "mackup"                         # MacBackup
 brew "python3"
 brew "asciinema"                      # Record terminal sessions
@@ -28,10 +29,13 @@ brew "duf"                            # Disk Usage/Free Utility - a better 'df' 
 brew "curlie"                         # Power of curl, ease of use of httpie
 brew "procs"                          # Modern replacement for ps written by Rust
 brew "fd"                             # Simple, fast and user-friendly alternative to find
+brew "speedtest-cli"                  # Command-line interface for https://speedtest.net bandwidth tests
+brew "bun"
 brew "zsh"
 brew "zsh-completions"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
+
 
 # Casks
 cask "karabiner-elements"             # Keyboard Customizer
@@ -66,11 +70,22 @@ cask "unclutter"                      # Desktop storage area for notes, files an
 cask "latest"                         # Utility that shows the latest app updates
 cask "fantastical"                    # Calendar software (Paid License)
 cask "imageoptim"                     # Tool to optimise images to a smaller size
-cask "menubarx"                       # Menu bar browser
+cask "menubarx"                       # Menu bar browser (Paid License)
+cask "docker"                         # Pack, ship and run any application as a lightweight container
+# cask "transmission"                   # Open-source BitTorrent client
+cask "rocket"                         # Emoji picker optimised for blind people
+cask "motrix"                         # Open-source download manager
+cask "maccy"                          # Clipboard manager
+cask "rectangle-pro"                  # Window snapping tool
+cask "espanso"                        # Cross-platform Text Expander written in Rust
 
 # fonts
+cask "font-d2coding"
 cask "font-hack"
 cask "font-jetbrains-mono"
+cask "font-meslo-lg"
+cask "font-meslo-for-powerline"
+cask "font-nanumgothic"
 
 # Apps
 mas "Sorted³ - 캘린더 노트 할 일", id: 1306893526
@@ -80,15 +95,12 @@ mas "HwpMac2014VIEWER", id: 416746898
 mas "Amphetamine", id: 937984704
 mas "UpNote", id: 1398373917
 
-# fonts
-cask 'homebrew/cask-fonts/font-d2coding'
-cask 'homebrew/cask-fonts/font-hack'
-cask 'homebrew/cask-fonts/font-meslo-lg'
-cask 'homebrew/cask-fonts/font-meslo-for-powerline'
-cask 'homebrew/cask-fonts/font-nanumgothic'
-
-# 'whalebrew install'
-# whalebrew "whalebrew/wget"
+# whalebrew
+whalebrew "linuxserver/ffmpeg"
+whalebrew "mbentley/figlet"
 
 # vs code extenstion
 # vscode "GitHub.codespaces"
+
+# etc app
+# Bartender 4 (Paid License)
