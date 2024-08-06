@@ -63,15 +63,16 @@
   - **GitOps**(ArgoCD)
 
 ### Maintainer
-- [nw-backend](https://github.com/taking/nw-backend) **[Maintainer]**
-- [java-spring-base-structure](https://github.com/taking/java-spring-base-structure) **[Maintainer]**
-- [dynamic-k8s](https://github.com/taking/dynamic-k8s) **[Maintainer]**
-- [popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[Maintainer]**
-- [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo)  **[Maintainer]**
-- [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center)  **[Maintainer]**
+- [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo)
+- [nw-backend](https://github.com/taking/nw-backend) **[archived]** 
+- [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) **[archived]** 
+- [java-spring-base-structure](https://github.com/taking/java-spring-base-structure)
+- [dynamic-k8s](https://github.com/taking/dynamic-k8s) **[archived]** 
+- [popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[archived]** 
 
 ### Contribute
-- [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo)
-- [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool)
-- [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment)
-- [rocky-linux/rocky](https://github.com/rocky-linux/rocky)
+- [cm-honeybee](https://github.com/cloud-barista/cm-honeybee)
+- [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo) **[archived]** 
+- [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool) **[archived]** 
+- [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment) **[archived]** 
+- [rocky-linux/rocky](https://github.com/rocky-linux/rocky) **[archived]** 
