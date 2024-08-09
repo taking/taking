@@ -81,7 +81,6 @@ cask "maccy"                          # Clipboard manager
 cask "rectangle-pro"                  # Window snapping tool
 cask "espanso"                        # Cross-platform Text Expander written in Rust
 # cask "jetbrains-toolbox"              # JetBrains tools manager (Paid License)
-cask "wpsoffice"                      # All-in-one office suite
 cask "jordanbaird-ice"                # Menu bar manager
 cask "transmit"                       # File transfer application (Paid License)
 
