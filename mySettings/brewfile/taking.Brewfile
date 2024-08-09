@@ -24,21 +24,20 @@ brew "wget"
 brew "whalebrew"                      # Homebrew, but with Docker images
 brew "tailscale"                      # Easiest, most secure way to use WireGuard and 2FA
 brew "lsd"                            # Clone of ls with colorful output, file type icons, and more
+brew "bat"                            # Clone of cat(1) with syntax highlighting and Git integration
 brew "dust"                           # More intuitive version of du in rust
 brew "duf"                            # Disk Usage/Free Utility - a better 'df' alternative
-brew "curlie"                         # Power of curl, ease of use of httpie
-brew "procs"                          # Modern replacement for ps written by Rust
-brew "fd"                             # Simple, fast and user-friendly alternative to find
-brew "speedtest-cli"                  # Command-line interface for https://speedtest.net bandwidth tests
 brew "dua-cli"                        # View disk space usage and delete unwanted data, fast
 brew "fd"                             # Simple, fast and user-friendly alternative to find
 brew "mkcert"                         # Simple tool to make locally trusted development certificates
+brew "curlie"                         # Power of curl, ease of use of httpie
+brew "procs"                          # Modern replacement for ps written by Rust
+brew "speedtest-cli"                  # Command-line interface for https://speedtest.net bandwidth tests
 brew "bun"
 brew "zsh"
 brew "zsh-completions"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
-
 
 # Casks
 cask "karabiner-elements"             # Keyboard Customizer
@@ -48,6 +47,7 @@ cask "termius"                        # SSH client
 cask "warp"                           # Rust-based terminal with AI built Terminal
 cask "cursor"                         # The AI Code Editor
 cask "visual-studio-code"             # Code Editor
+cask "fleet"                          # Hybrid IDE and text editor
 cask "typora"                         # Markdown Editor (Paid License)
 cask "adguard"                        # Remove Ads (Paid License)
 cask "rectangle-pro"                  # Drag windows and drop them on screen edges and corners to snap (Paid License)
@@ -61,7 +61,6 @@ cask "cleanshot"                      # Screen capturing tool (Paid License)
 cask "movist-pro"                     # Video Player (Paid License)
 cask "calendar-366"                   # Calendar (Paid License)
 cask "sensei"                         # Monitors the computer system and optimises its performance (Paid License)
-cask "transmit"                       # file transfer apps (Paid License)
 cask "soundsource"                    # Sound and audio controller (Paid License)
 cask "tableplus"                      # Native GUI tool for relational databases (Paid License)
 cask "raycast"                        # Control your tools with a few keystrokes
@@ -81,6 +80,10 @@ cask "motrix"                         # Open-source download manager
 cask "maccy"                          # Clipboard manager
 cask "rectangle-pro"                  # Window snapping tool
 cask "espanso"                        # Cross-platform Text Expander written in Rust
+# cask "jetbrains-toolbox"              # JetBrains tools manager (Paid License)
+cask "wpsoffice"                      # All-in-one office suite
+cask "jordanbaird-ice"                # Menu bar manager
+cask "transmit"                       # File transfer application (Paid License)
 
 # fonts
 cask "font-d2coding"
@@ -100,10 +103,10 @@ mas "UpNote", id: 1398373917
 
 # whalebrew
 whalebrew "linuxserver/ffmpeg"
-whalebrew "mbentley/figlet"
 
 # vs code extenstion
 # vscode "GitHub.codespaces"
 
 # etc app
 # Bartender 4 (Paid License)
+# forklift 4 (Paid License)
