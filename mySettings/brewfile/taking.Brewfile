@@ -30,6 +30,9 @@ brew "curlie"                         # Power of curl, ease of use of httpie
 brew "procs"                          # Modern replacement for ps written by Rust
 brew "fd"                             # Simple, fast and user-friendly alternative to find
 brew "speedtest-cli"                  # Command-line interface for https://speedtest.net bandwidth tests
+brew "dua-cli"                        # View disk space usage and delete unwanted data, fast
+brew "fd"                             # Simple, fast and user-friendly alternative to find
+brew "mkcert"                         # Simple tool to make locally trusted development certificates
 brew "bun"
 brew "zsh"
 brew "zsh-completions"
