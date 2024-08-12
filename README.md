@@ -54,20 +54,20 @@
 ## 다음 프로젝트를 기여했어요
 
 ### Maintainer
-- [inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) (Private Repo)
-- [inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo)
-- [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo)
-- [nw-backend](https://github.com/taking/nw-backend) **[archived]** 
-- [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) **[archived]** 
+- [inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) (Private Repo) `2024.03 ~ 2024.06`
+- [inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo) `2024.03 ~ 2024.06`
+- [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo) `2023.08 ~`
+- [nw-backend](https://github.com/taking/nw-backend) `2023.06 ~ 2024.01` **[archived]** 
+- [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) `2021.06 ~ 2023.12` **[archived]** 
 - [java-spring-base-structure](https://github.com/taking/java-spring-base-structure)
-- [Animalinfo](https://github.com/taking/Animalinfo) **[archived]** 
+- [Animalinfo](https://github.com/taking/Animalinfo) `2022.07 ~ 2022.08` **[archived]** 
 - [dynamic-k8s](https://github.com/taking/dynamic-k8s) **[archived]** 
 - [popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[archived]** 
 
 ### Contribute
-- [inno-portal-2024](https://rnd-app.innogrid.com/team_clouddev/inno-portal-2024) (Private Repo)
-- [cm-honeybee](https://github.com/cloud-barista/cm-honeybee)
-- [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo) **[archived]** 
-- [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool) **[archived]** 
+- [inno-portal-2024](https://rnd-app.innogrid.com/team_clouddev/inno-portal-2024) (Private Repo) `2024.03 ~ 2024.06`
+- [cm-honeybee](https://github.com/cloud-barista/cm-honeybee) `2024.01 ~`
+- [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo) `2023.06 ~ 2024.01` **[archived]** 
+- [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool) `2021.06 ~ 2023.12` **[archived]** 
 - [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment) **[archived]** 
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) **[archived]** 
