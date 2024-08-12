@@ -54,6 +54,8 @@
 ## 다음 프로젝트를 기여했어요
 
 ### Maintainer
+- [inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) (Private Repo)
+- [inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo)
 - [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo)
 - [nw-backend](https://github.com/taking/nw-backend) **[archived]** 
 - [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) **[archived]** 
@@ -63,6 +65,7 @@
 - [popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[archived]** 
 
 ### Contribute
+- [inno-portal-2024](https://rnd-app.innogrid.com/team_clouddev/inno-portal-2024) (Private Repo)
 - [cm-honeybee](https://github.com/cloud-barista/cm-honeybee)
 - [nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo) **[archived]** 
 - [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool) **[archived]** 
