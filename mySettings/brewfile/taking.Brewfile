@@ -98,7 +98,7 @@ mas "Amphetamine", id: 937984704
 mas "UpNote", id: 1398373917
 
 # whalebrew
-whalebrew "linuxserver/ffmpeg"
+# whalebrew "linuxserver/ffmpeg"
 
 # vs code extenstion
 # vscode "GitHub.codespaces"
