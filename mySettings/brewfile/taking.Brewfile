@@ -1,7 +1,5 @@
 # Taps
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
 tap "oven-sh/bun"
 
 # Binaries/Libraries
@@ -33,7 +31,6 @@ brew "mkcert"                         # Simple tool to make locally trusted deve
 brew "curlie"                         # Power of curl, ease of use of httpie
 brew "procs"                          # Modern replacement for ps written by Rust
 brew "speedtest-cli"                  # Command-line interface for https://speedtest.net bandwidth tests
-brew "bun"
 brew "zsh"
 brew "zsh-completions"
 brew "zsh-autosuggestions"
