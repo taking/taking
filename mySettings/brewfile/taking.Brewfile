@@ -87,7 +87,7 @@ cask "font-hack"
 cask "font-jetbrains-mono"
 cask "font-meslo-lg"
 cask "font-meslo-for-powerline"
-cask "font-nanumgothic"
+cask "font-nanum-gothic"
 
 # Apps
 mas "Sorted³ - 캘린더 노트 할 일", id: 1306893526
