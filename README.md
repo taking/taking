@@ -58,7 +58,7 @@
 - [team_clouddev/inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo) `2024.03 ~ 2024.06`
 - [team_clouddev/inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo) `2023.08 ~`
 - [lab-cherry/nw-backend](https://github.com/lab-cherry/nw-backend) `2023.06 ~ 2024.01` **[archived]** 
-- [gedge-platform/gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) `2021.06 ~ 2023.12` **[archived]** 
+- [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) `2021.06 ~ 2023.12` **[archived]** 
 - [taking/java-spring-base-structure](https://github.com/taking/java-spring-base-structure)
 - [taking/Animalinfo](https://github.com/taking/Animalinfo) `2022.07 ~ 2022.08` **[archived]** 
 - [taking/dynamic-k8s](https://github.com/taking/dynamic-k8s) **[archived]** 
