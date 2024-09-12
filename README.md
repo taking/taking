@@ -54,20 +54,36 @@
 ## 다음 프로젝트를 기여했어요
 
 ### Maintainer
-- [team_clouddev/inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) (Private Repo) `2024.03 ~ 2024.06`
-- [team_clouddev/inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo) `2024.03 ~ 2024.06`
-- [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo) `2023.08 ~`
-- [lab-cherry/nw-backend](https://github.com/lab-cherry/nw-backend) `2023.06 ~ 2024.01` **[archived]** 
-- [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) `2021.06 ~ 2023.12` **[archived]** 
-- [taking/java-spring-base-structure](https://github.com/taking/java-spring-base-structure)
-- [taking/Animalinfo](https://github.com/taking/Animalinfo) `2022.07 ~ 2022.08` **[archived]** 
-- [taking/dynamic-k8s](https://github.com/taking/dynamic-k8s) **[archived]** 
-- [taking/popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[archived]** 
+- 이노그리드 공식 홈페이지 리뉴얼
+  - [team_clouddev/inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) (Private Repo) `2024.03 ~ 2024.06`
+  - [team_clouddev/inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo) `2024.03 ~ 2024.06`
+- 낭만웨딩 플랫폼 백엔드
+   - [lab-cherry/nw-backend](https://github.com/lab-cherry/nw-backend) `2023.06 ~ 2024.01` **[archived]** 
+- 5G기반 이동형 유연의료플랫폼 백엔드
+   - [inno-rndplan/medge-backend](https://github.com/inno-rndplan/medge-backend) (Private Repo) `2023.08 ~`
+- 코어 클라우드 및 클라우드 엣지 관리 프레임워크 백엔드
+  - [gedge-platform/gm-center](https://github.com/gedge-platform/gm-center) `2021.06 ~ 2023.12` **[archived]** 
+- 자바 베이스 템플릿 백엔드
+  - [taking/java-spring-base-structure](https://github.com/taking/java-spring-base-structure)
+- 데이터 수집 및 관리 도구 백엔드
+  - [taking/Animalinfo](https://github.com/taking/Animalinfo) `2022.07 ~ 2022.08` **[archived]** 
+- 기타
+  - Ansible k8s 동적 인벤토리 관리
+    - [taking/dynamic-k8s](https://github.com/taking/dynamic-k8s) **[archived]** 
+  - 맥앱 Popclip 네이버 파파고 모듈
+    - [taking/popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[archived]** 
 
 ### Contribute
-- [team_clouddev/inno-portal-2024](https://rnd-app.innogrid.com/team_clouddev/inno-portal-2024) (Private Repo) `2024.03 ~ 2024.06`
-- [cloud-barista/cm-honeybee](https://github.com/cloud-barista/cm-honeybee) `2024.01 ~`
-- [lab-cherry/nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo) `2023.06 ~ 2024.01` **[archived]** 
-- [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool) `2021.06 ~ 2023.12` **[archived]** 
-- [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment) **[archived]** 
-- [rocky-linux/rocky](https://github.com/rocky-linux/rocky) **[archived]** 
+- 이노그리드 공식 홈페이지 리뉴얼
+  - [team_clouddev/inno-portal-2024](https://rnd-app.innogrid.com/team_clouddev/inno-portal-2024) (Private Repo) `2024.03 ~ 2024.06`
+- 소스 컴퓨팅 환경 프레임워크 : 소스 환경 정보 수집 모듈 백엔드
+  - [cloud-barista/cm-honeybee](https://github.com/cloud-barista/cm-honeybee) `2024.01 ~`
+- 낭만웨딩 플랫폼 프론트엔드
+  - [lab-cherry/nw-frontend](https://github.com/lab-cherry/nw-frontend) (Private Repo) `2023.06 ~ 2024.01` **[archived]**
+- 코어 클라우드 및 클라우드 엣지 관리 프레임워크 프론트엔드
+  - [gedge-platform/gm-tool](https://github.com/gedge-platform/gm-tool) `2021.06 ~ 2023.12` **[archived]**
+- 기타
+  - 개방형 클라우드 플랫폼 : 모니터링 모듈
+    - [PaaS-TA/monitoring-deployment](https://github.com/PaaS-TA/monitoring-deployment) **[archived]**  
+  - rocky linux
+    - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) **[archived]** 
