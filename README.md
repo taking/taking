@@ -54,7 +54,7 @@
 ## 다음 프로젝트를 기여했어요
 
 ### Maintainer
-- 이노그리드 공식 홈페이지 리뉴얼
+- [이노그리드 공식 홈페이지 리뉴얼](https://www.innogrid.com)
   - [team_clouddev/inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) (Private Repo) `2024.03 ~ 2024.06`
   - [team_clouddev/inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo) `2024.03 ~ 2024.06`
 - 낭만웨딩 플랫폼 백엔드
@@ -74,7 +74,7 @@
     - [taking/popclip-Naver-papago](https://github.com/taking/popclip-Naver-papago) **[archived]** 
 
 ### Contribute
-- 이노그리드 공식 홈페이지 리뉴얼
+- [이노그리드 공식 홈페이지 리뉴얼](https://www.innogrid.com)
   - [team_clouddev/inno-portal-2024](https://rnd-app.innogrid.com/team_clouddev/inno-portal-2024) (Private Repo) `2024.03 ~ 2024.06`
 - 소스 컴퓨팅 환경 프레임워크 : 소스 환경 정보 수집 모듈 백엔드
   - [cloud-barista/cm-honeybee](https://github.com/cloud-barista/cm-honeybee) `2024.01 ~`
