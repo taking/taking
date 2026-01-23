@@ -55,8 +55,10 @@
 
 ### Maintainer
 - [이노그리드 공식 홈페이지 리뉴얼](https://www.innogrid.com)
-  - [team_clouddev/inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) (Private Repo) `2024.03 ~ 2024.06`
-  - [team_clouddev/inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend) (Private Repo) `2024.03 ~ 2024.06`
+  - [team_clouddev/inno-partner-2024](https://rnd-app.innogrid.com/team_clouddev/inno-partner-2025) → 파트너사 관리 페이지 (Private Repo) `2025.07 ~ 2025.08`
+  - [team_clouddev/inno-backend-2025](https://rnd-app.innogrid.com/team_clouddev/inno-backend-2025) → 파트너사 관리 페이지 API (Private Repo) `2025.07 ~ 2025.08`
+  - [team_clouddev/inno-admin-2024](https://rnd-app.innogrid.com/team_clouddev/inno-admin-2024) → 홈페이지 관리자 페이지 (Private Repo) `2024.03 ~ 2024.06`
+  - [team_clouddev/inno-backend-2024](https://rnd-app.innogrid.com/team_clouddev/inno-backend-2024) → 홈페이지 관리자 페이지 API (Private Repo) `2024.03 ~ 2024.06`
 - 낭만웨딩 플랫폼 백엔드
    - [lab-cherry/nw-backend](https://github.com/lab-cherry/nw-backend) `2023.06 ~ 2024.01` **[archived]** 
 - 5G기반 이동형 유연의료플랫폼 백엔드
